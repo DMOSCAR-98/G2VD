@@ -1,0 +1,50 @@
+# Runtime requirements for G2VD.
+# The PyTorch pins below target CUDA 12.4. Install with:
+#   pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu124
+# If your CUDA/CPU environment differs, install the matching PyTorch stack from
+# https://pytorch.org/get-started/locally/ and keep the remaining package
+# versions as a reference.
+
+# Core deep learning stack
+torch==2.6.0+cu124
+torchvision==0.21.0+cu124
+torchaudio==2.6.0+cu124
+
+# Video/data pipeline
+pytorchvideo==0.1.5
+av==12.0.0
+albumentations==2.0.8
+opencv-python==4.9.0.80
+opencv-python-headless==4.11.0.86
+pillow==10.4.0
+
+# Config and utilities
+omegaconf==2.3.0
+tqdm==4.67.1
+PyYAML==6.0.1
+numpy==1.26.3
+scipy==1.14.1
+
+# Metrics and visualization
+scikit-learn==1.7.2
+matplotlib==3.10.7
+seaborn==0.13.2
+
+# Model ecosystem
+transformers==5.5.4
+tokenizers==0.22.2
+huggingface-hub==1.10.2
+accelerate==1.13.0
+datasets==4.8.4
+safetensors==0.4.5
+sentencepiece==0.2.0
+timm==1.0.9
+einops==0.8.0
+ftfy==6.2.3
+regex==2025.9.1
+
+# Training/logging extras used in optional code paths
+tensorboard==2.18.0
+pytorch-lightning==1.9.4
+fairscale==0.4.13
+peft==0.18.0

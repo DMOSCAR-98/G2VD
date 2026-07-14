@@ -1,0 +1,786 @@
+[
+    {
+        "video_path": "genvideo-2271k/sora/sora_1.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_10.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 17.11,
+            "fps": 30.0,
+            "nb_frames": 512,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_11.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1920,
+            "height": 1088
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_12.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_13.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 40.02,
+            "fps": 30.0,
+            "nb_frames": 1200,
+            "width": 720,
+            "height": 1280
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_14.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 10.0,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_15.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 10.0,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 720,
+            "height": 1280
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_16.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_17.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 15.04,
+            "fps": 30.0,
+            "nb_frames": 450,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_18.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 17.07,
+            "fps": 30.0,
+            "nb_frames": 512,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_19.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 10.03,
+            "fps": 30.0,
+            "nb_frames": 299,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_2.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 10.03,
+            "fps": 30.0,
+            "nb_frames": 299,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_20.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 10.0,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_21.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 9.98,
+            "fps": 30.0,
+            "nb_frames": 298,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_22.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_23.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 10.05,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_24.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 10.0,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_25.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 10.0,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_26.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 25.0,
+            "fps": 30.0,
+            "nb_frames": 750,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_27.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 10.0,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_28.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 27.07,
+            "fps": 30.0,
+            "nb_frames": 812,
+            "width": 720,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_29.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 9.93,
+            "fps": 30.0,
+            "nb_frames": 298,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_3.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_30.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_31.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_32.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 17.07,
+            "fps": 30.0,
+            "nb_frames": 512,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_33.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1920,
+            "height": 1088
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_34.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 17.07,
+            "fps": 30.0,
+            "nb_frames": 512,
+            "width": 512,
+            "height": 512
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_35.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_36.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 17.07,
+            "fps": 30.0,
+            "nb_frames": 512,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_37.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_38.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 10.03,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_39.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_4.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_40.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 10.0,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 640,
+            "height": 480
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_41.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 19.93,
+            "fps": 30.0,
+            "nb_frames": 598,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_42.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_43.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 15.0,
+            "fps": 30.0,
+            "nb_frames": 450,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_44.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_45.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_46.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_47.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 10.0,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_48.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 17.07,
+            "fps": 30.0,
+            "nb_frames": 512,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_49.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 59.97,
+            "fps": 30.0,
+            "nb_frames": 1799,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_5.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 19.97,
+            "fps": 30.0,
+            "nb_frames": 599,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_50.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_51.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 40.02,
+            "fps": 30.0,
+            "nb_frames": 1200,
+            "width": 720,
+            "height": 1280
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_52.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_53.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 10.0,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_54.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 60.03,
+            "fps": 30.0,
+            "nb_frames": 1800,
+            "width": 854,
+            "height": 480
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_55.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 10.03,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_56.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 10.0,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_6.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 854,
+            "height": 480
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_7.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1920,
+            "height": 1088
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_8.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1920,
+            "height": 1088
+        }
+    },
+    {
+        "video_path": "genvideo-2271k/sora/sora_9.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1920,
+            "height": 1088
+        }
+    }
+]

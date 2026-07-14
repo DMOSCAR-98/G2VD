@@ -1,0 +1,65 @@
+# Source-name reference for metadata directories. This file is informational:
+# copy names from here into the editable templates in configs/templates/.
+
+genvidbench-143k-pair1:
+  metadata_dir: dataset_metadata/genvidbench-143k-pair1
+  data_list:
+    - "vript"
+    - "modelscope"
+    - "pika"
+    - "text2video-zero"
+    - "videocrafter2"
+
+genvidbench-143k-pair2:
+  metadata_dir: dataset_metadata/genvidbench-143k-pair2
+  data_list:
+    - "hd-vg-130m"
+    - "cogvideo"
+    - "mora"
+    - "musev"
+    - "svd"
+
+genvideo-2271k:
+  metadata_dir: dataset_metadata/genvideo-2271k
+  data_list:
+    - "msr-vtt"
+    - "gen2"
+    - "hotshot"
+    - "lavie"
+    - "modelscope"
+    - "moonvalley"
+    - "morphstudio"
+    - "show1"
+    - "sora"
+    - "videocrafter1"
+    - "wildscrape"
+
+gvd-11k:
+  metadata_dir: dataset_metadata/gvd-11k
+  data_list:
+    - "emu"
+    - "hotshot"
+    - "moonvalley-i2v"
+    - "moonvalley-t2v"
+    - "neverends-i2v"
+    - "neverends-t2v"
+    - "pika-i2v"
+    - "pika-t2v"
+    - "sora"
+    - "videocrafter1"
+    - "videopoet"
+
+gvf-2.8k:
+  metadata_dir: dataset_metadata/gvf-2.8k
+  data_list:
+    - "msr-vtt"
+    - "msvd"
+    - "gen2"
+    - "kling"
+    - "modelscope"
+    - "pika"
+    - "show1"
+    - "sora"
+    - "text2video-zero"
+    - "veo"
+    - "zeroscope"

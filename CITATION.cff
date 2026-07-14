@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "Citation metadata will be restored after the double-blind review period."
+title: "G2VD: Generalizable AI-Generated Video Detection via Counterfactual Intervention and Causal Disentanglement"
+authors:
+  - name: "Anonymous Authors"
+license: "Apache-2.0"
+type: software

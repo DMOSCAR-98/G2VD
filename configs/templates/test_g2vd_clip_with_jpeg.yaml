@@ -1,0 +1,38 @@
+task_desc: test-template - g2vd - clip - jpeg
+
+seed: 42
+
+save_dir: "./seed_${seed}/test_results/g2vd/clip/example_test_jpeg/"
+dataset_root: "/path/to/gvd_datasets/"
+
+test_metadata_dir: "./dataset_metadata/your_test_split/"
+test_video_data_list:
+  - "real_source"
+  - "fake_source_1"
+  - "fake_source_2"
+
+test_clip_duration: 2.0
+test_num_samples: 8
+test_resolution: 224
+test_batch_size: 16
+test_num_workers: 8
+test_sample_ratio: 1.0
+
+det_checkpoint_path: "/path/to/g2vd_checkpoint.pth"
+generate_tsne: false
+
+# Optional perturbation example. Remove this block for ideal-condition testing.
+test_augmentation:
+  transforms:
+    - target: albumentations.Resize
+      params:
+        height: 224
+        width: 224
+    - target: albumentations.ImageCompression
+      params:
+        quality_range: [60, 60]
+        p: 1.0
+    - target: albumentations.Normalize
+      params:
+        mean: [0.485, 0.456, 0.406]
+        std: [0.229, 0.224, 0.225]

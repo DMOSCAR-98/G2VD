@@ -1,0 +1,68 @@
+task_desc: train-template - g2vd_wo_cd - clip
+
+seed: 42
+
+# Stage 2 warm-starts from the stage-1 detector and enables CFIPipeline.
+save_dir: "./seed_${seed}/train_results/g2vd_wo_cd/clip/example/"
+dataset_root: "/path/to/gvd_datasets/"
+
+train_metadata_dir: "./dataset_metadata/your_train_split/"
+train_video_data_list:
+  - "real_source"
+  - "fake_source_1"
+  - "fake_source_2"
+
+val_metadata_dir: "./dataset_metadata/your_val_split/"
+val_video_data_list:
+  - "real_source"
+  - "fake_source_1"
+  - "fake_source_2"
+
+train_clip_duration: 2.0
+train_num_samples: 8
+train_resolution: 224
+train_batch_size: 8
+train_num_workers: 8
+
+val_clip_duration: 2.0
+val_num_samples: 8
+val_resolution: 224
+val_batch_size: 16
+val_num_workers: 8
+
+train_sample_ratio: 1.0
+val_sample_ratio: 1.0
+train_epochs: 10
+val_freq: 1
+grad_accum_steps: 16
+weight_decay: 1.0e-8
+
+checkpoint_train_val_guard: true
+checkpoint_min_real_acc: 0.75
+checkpoint_min_fake_acc: 0.75
+cfi_stage: 0.0
+cd_stage: 1.0
+cf_cls_weight: 0.5
+
+det_model:
+  target: modules.detector.VideoDetector
+  params:
+    video_backbone: clip
+    hf_repo: null
+    backbone_ft: full
+    num_classes: 1
+    classifier_type: linear
+  checkpoint_path: "/path/to/stage1_checkpoint.pth"
+  base_learning_rate: 1.0e-6
+
+cfi_pipeline:
+  target: modules.counterfactual_intervention_pipeline.CFIPipeline
+  params:
+    model_types:
+      - taehv
+      - taesdv
+      - videovaeplus_16z
+      - videovaeplus_4z
+    release_after_use: true
+
+generate_tsne: false

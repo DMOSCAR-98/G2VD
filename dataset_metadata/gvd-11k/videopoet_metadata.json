@@ -1,0 +1,1682 @@
+[
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-01kymPKkkLjskLx8Th3uB5-0a7dce0e3e038b3cc93b9d9c81fd8125-202_robot_walking_DC223913.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-1BlazIIXhUWloSSs6JpN9p-1c2d1b591941291c47738429e7bd3bfd-084_vaporwave_dog_52D09F28.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.12,
+            "fps": 8.0,
+            "nb_frames": 41,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-1Eqt9KyCwKo8zBFFTAUoDS-65b3b3910c4fa9cf6d37c1236c16c6b9-188_terminator_robot_51403936.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-1MiZN3QzYU6jjoqfhZYqYT-0a44822649af474ac501b46f45590d25-118_bones_95A5EF0A.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-1Ndl2yoZDsqU3Pcxs12P9k-61cde30bf0d07811c3a4feccc1c31257-233_mystic_cat_2_489772C6.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-1PZ9XAAlFUVZh6I4Sq1OfE-5dcf68302c7bea5762faba07495315a6-231_wolf_coffee_819D58EE.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-1PcZybarQ4HnZmQHr99wyq-274b0732913c4988f3d2c391aefbb8b5-220_cat_santa_hat_458DCE10.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-1YORlFvU4KFMHTJP0qtNQy-30f563bdd724ea4926eaa075f650ad2f-167_couple_painting_42F492D6.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-1ZojllAhWh4gU1RRoftnxB-9d5551c18d95fe9b53037199ad1445da-241_koala_piano_3_CB649218.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-1eho5afhUlX71yW8XFXbNE-8d09c418d7b81dd5920c17f59195ffd2-225_swan_CBADD257.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-1gxodmsz2Lo9T1Kd9OCTcl-dcf1601b03edc8efaf5e8022826d04de-208_fox_dancing_1804FBED.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-1jTH0UKTpQOqZgOzxDEDO5-6b6b73757365964e2bcdfc1aa972086d-198_wombat_surfing_27DBA7D4.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-1ljho52ABKtb9NRuYnkKDB-f1509202e6cf5d394092f600d2ca8f06-222_heavy_rain_2CA5947F.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-1o0GSz6OBtGBex9GMJs6Ph-4eb54f6c7704a7a2756e49bb57ee155e-187_starry_night_3_EB0AB029.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-1qjxomr3S7A4QlrCEodP3E-5941ef49e141e25c3ac8dc19636e3d12-173_line_drawing_A46FC55A.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-208TLWYzCEjQ1hPOz2thEI-502ab5b6b6112a47be136dd1ae1e15bb-235_cat_typing_6FEFF32C.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-22wxETM1n6nJ86kyUNREL0-222166a13fec7256ed3b23f761fa6515-210_flower_bloom_1196835C.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-2DStQfO7n9e6A04JqyNXMt-9f76de5acdf0f11be29f6d388a6745bd-234_white_cat_paw_782C93F7.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-2H8GitFXju9NPPAEvE6I9B-e571c1f58322d905232530ac74b0c47f-245_motorcycle_race_A0EB0FAD.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-2MQ3VPgyhlNFOrP9apwyrc-c0f921fdc31e5ab953c3be63fdcc41e9-002_panda_5EA94623.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 6.12,
+            "fps": 8.0,
+            "nb_frames": 49,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-2Qe9OV6w3qiGH63hWgQj1h-1d5d8867231b085180d4663382ebb475-117_mouse_66824F8C.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-2TbPAs2v0Bon3q4qyKqgyD-4bbd5d8a33877838ce2779e7e0a58179-206_train_painting_2_9547756E.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-2XHtol0GA3ObRSZAWsKqLy-b50a02977265940bde07e8850df15526-014_shark_2DB4C636.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-2fLyrlr7PMEJCAgPmdERr5-e97efc45239afd722e1697aa1a6900fb-137_tidal_wave_F942B554.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 7.12,
+            "fps": 8.0,
+            "nb_frames": 57,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-2mjgVusiBDilgsUYSwY3rJ-c7a8f3198e46f5cda9c1584e0f1b8f20-230_tiger_tv_2E4F7C64.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-2tNMSU1XiMEGDYrn0jjJM3-659de958d0e33ca1e641b9fb03c105ce-245_bread_cut_C6CE4CF7.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-2xUcllUgo6rTN2UBk2mWJG-50acd2e9de341c8ea1a0ea36dcef6dc6-182_deep_zoom_221094C3.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-3242Cs5hUHkCBDM00cHnET-8531734dcbc3092233eb66f05b9106e8-214_dragon_fire_1F4272E5.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-351Dt0hinUdwawXikwCzBI-fd64166baa00a19410d94390c0253209-181_astronaut_space_1E40490D.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-35O0ddqYxaNr2bjkk5QTyc-570b510b5e95d01890366f7af9e64e12-227_rabbit_8ECA10EC.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-3GgTn1AlLAwFiOfehKN55R-b784dc4ac7cdbd55bcbaaf212761d34e-190_raccoon_piano_2_F834F3AC.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-3Hz4WaUflcJIfxM0gtBtv5-63a2513f7ee89042420a3d5696efc7f4-209_watermelon_lava_2A69424B.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-3MtJebtENO0HolZ8aTP5bv-1ec94d51ff45ecbe9ae14267582159d5-005_robot_706A8962.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 6.12,
+            "fps": 8.0,
+            "nb_frames": 49,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-3P1NXBdDgrsR36nsFBHY2J-3198195fdde7128eac2edfb724e017fd-177_teddy_bear_walk_5F176107.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-3P7RuJO6F5Zu0ECIzbX9Np-aafbca1371cd12d9e24186da9819bad1-236_lion_typing_62E2881D.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-3VpzQb719iZX1aABvmki3d-0616f8a1db6a4ae26ededf80823ffb53-174_wizard_unleashing_9439A569.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-3XtMLtkoe4F9I9xmjsKQlQ-ba2b923730a9e46a355bb0bea8a13900-196_teddy_drums_535361FA.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-3aXTXxRjSKhmVZLxYqLcUX-4060efda408ec3ec3544579935fd8a2f-250_astro_horse_pencilart_6B48D5DE.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-3hmTGLWdJ2ORDcsbAZRybs-e4ee25974e7c2987b19344262ca10642-183_halloween_knight_2CD067EA.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-3mxLArZmR2OUn1VmJzJMDk-df3aa54e28698dcef3f1c9c1fd894570-254_astro_horse_doubleexposure_CC5631E8.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-3siQJzyQpMyIfASEHzOMjd-4498cbaf7f2a07766d73cb2d1f1928d1-199_cruise_space_99403711.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-47O5bk2RccwTHijIs3KvyQ-2ecafa482e111e7a8424d61b12c0b18f-243_sushi_car_96C13C7E.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-47vRgBYjsZBr3qiyQaOKoD-9319a069b07b704290482e8de00c718e-171_panda_chemicals_1_81458E43.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4Ax95BLtxuGVWLsc7Opx9v-8c2c0babe5bc2c6dade9b94ecb41832e-151_elven_fpv_77EA48FD.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 10.12,
+            "fps": 8.0,
+            "nb_frames": 81,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4EoqlJKnvQNdI9Zxj6AT36-b77ad0249bb093ee74f5dd94d5f67a4e-085_octopus_237705B8.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4Iq4LXAIpb4yrOXyPJi37H-eec148cbd499f0d8d7368f194525d4db-180_raccoon_sad_8B78FCDF.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4OVoYsssdCWY6p7CS39U7Q-2c4e7c0b15de1f6aeaec7154f409d05e-154_owl_bear_screech_65F903FE.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 4.12,
+            "fps": 8.0,
+            "nb_frames": 33,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4Pd6Wqx8urFwMiBvASx7So-53f652bc4f98807a2679ef93639fdfd9-204_corgi_flying_9FE5304B.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4TeSAxiA20dYPIo6suZpr5-9c2e1e1dee5319d05c26c2256c70ec5d-213_terminator_ball_pit_6A66C0F7.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4UzyOUun6tXJMkFQRHtXkg-5149df58d2ae55d8a1847ed090a70c0c-232_mystic_cat_572F961C.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4XmaZB8Faasee6il0tdxaz-ec1f9a425e0a8d0c38ba1ba2560f2934-205_night_time_lapse_92F55232.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4Y5NOTVkQSuVi2bnE4xNAN-d42505592625e8f97ae1060821c43ef0-129_origami_fox_EF7F2988.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4ado4U6W1XLb766P8pxl3T-574e23aaadfea2c5ca50b2286e5d4eeb-009_piano_2D6B2910.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 7.12,
+            "fps": 8.0,
+            "nb_frames": 57,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4bOzoLuRhgEytUeC314qQH-ae7d643507df8b8c1f4fa0bbb9ffd1a8-127_explosion_7DFABDA0.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4bbBY6hYZCrs0cf7E9gKao-095a44a6d13e757aad78b21c42093ed9-019_elven_CF00E83A.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 16.12,
+            "fps": 8.0,
+            "nb_frames": 129,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4dW67IWOkEYuc8X5JpmJ7k-0e40d53d608a2bd8a7c93982de45f987-134_elven_city_3_9005A91A.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4fHxBngZmr5Z2wtd2bG63O-565a01574cbc6185150d22dfd9c51781-215_swirling_potion_2_6AE43F15.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4flhGUbD8YQFoRiu7aiwEJ-d85361067dc55d863eb73c310012ce78-007_selfie_C486FDED.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 4.12,
+            "fps": 8.0,
+            "nb_frames": 33,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4h0ubeHtzSuPgDvfzPCNs8-32888654eb2436dcb1e092a3f72732fd-253_astro_horse_inkwash_22FC922B.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4jLzeQ74y8obz368S6CrWA-690cd3c1afac10d406a18d5cfabc6bf5-008_headphones_EB382859.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 7.12,
+            "fps": 8.0,
+            "nb_frames": 57,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4jQwGDtIRzsjADm4regW9Z-467fd013ee902f56ad22ef0f8ce2c497-166_elven_city_5_B146579F.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4pgIPdn7rFi3Ppwf7EIveH-021b414070280c9b1e842471e86a6e7d-248_astro_horse_photorealistic_09F3CA1B.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4pjPQHCZJaVCqZQiswSQys-cafe06fda94c8233f4828451d013bb19-079_tree_F1ABD8CC.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4pr5HIYohYSoLiYRIoVTHC-b54d6abdbbb66f52e7636552edd0cdb9-172_panda_chemicals_2_64FA5F25.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4qV3C4KlMi0iqZ8XfR1w1m-a5eb9cf6a72e631e8e5e250d327e2431-217_gummy_balloon_56FA290A.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-4qytzNxsfXoHouniNAlfex-4fdf8456965dd8d742b56e8893edd004-128_dino_7F739F26.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-54rtwZ671l72sRps5JKQeI-9c60647a85c857a53258e5b20d56e2ea-116_gorilla_60876135.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-55IaahvvOC48ki6GnkNb9R-658cf263dc92e35354fb2e711452bf25-020_astronaut_fireworks_953B5C2A.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 10.12,
+            "fps": 8.0,
+            "nb_frames": 81,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-55zNkVz2Ws28FGUjznvReZ-b7a4435fa1519f7bdaf84cd8d6602c85-003_paint_70AED403.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 6.12,
+            "fps": 8.0,
+            "nb_frames": 49,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-5BIgRgRLKK75eMIWivkwGV-ecbea6b7061fa6050445edca74c2a907-185_mist_figure_FA9D2874.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-5F74tllYEokurE6A70sTYZ-1c3faf403c8a7f45d881183028d3aa00-228_bear_hunting_9C4A8446.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-5I4MZzGJ2KmQLECFnooeDe-0576d130b5c9a092e0cad8fd442bf714-080_chicken_E3742E46.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-5IXhBebM6fx9PFDdVgjwOz-06e1071ca959731a0ee88788f4c92875-001_teddy_3F7B6E48.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.12,
+            "fps": 8.0,
+            "nb_frames": 65,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-5JgfDLKKmudEGvNy5WiPBn-9e62f35b753ca03a632dd7712bc59ebd-115_car_moon_B8833CBA.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-5LLZTqMwG4KNEpXMDvFFOy-f43ef05f2a821b1b51a5665b200ceac9-200_city_92F04AAD.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-5byXCXSYnTTB3TdcnGOhHg-3e16ef9a8b33a187650d491d38c698a4-203_astronaut_typing_984B8E5D.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-5cfIKeHs7cC1ACujXOcswP-d4257259d340c377fb8016b06d96f408-114_santa_frost_E2A092A4.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-5eLkZ4tv6Mkmv2eGwnn0Ci-d3968c9de0fdacc917fb8b9f5765ce63-179_pandas_cards_2_55E3464A.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-5fG5eS5rX9XYJMZwjpRzPe-e226fc936118ae10cb041644ba288d12-110_astronaut_horse_5398733D.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-5kt1kZmQvigJNp66LcgvR4-c06bd08266607c55eff0dc9e1691d119-133_elven_city_2_0D78CFD6.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-5syOEtbGNoKYu3F1TscERJ-912ff83be77e71c1839b31291e12f1d2-139_cabin_FE103C03.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 256,
+            "height": 448
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-60ISdte4NmEgH4G132kHMo-4f5e73cc45d990dbda831373ca7d1d17-176_man_wires_CF52EE14.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-64rQQfi5jW1Zzx5pUjRiw2-74891ccefe0195b2013d3e24b64b1261-186_starry_night_2_EA0AE365.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-6H4lgj3EcDsleyiI1eTIIU-a70d09c59023de80a2c17811924bf4d5-192_raptor_jet_aircraft_CC5DDBE9.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-6Hnb6Ah3QDpCPeQtMxDL2n-600e9b23c9e79e8f6e1c76404dd219a7-189_raccoon_coral_7740654E.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-6Im8gJEICpxbR26cuis8EI-a819dd135cb8e15a86b3ec3de3fe658b-148_trex_cactus_water_E76D91E1.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 3.12,
+            "fps": 8.0,
+            "nb_frames": 25,
+            "width": 256,
+            "height": 448
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-6KAUwECB9m8WG3yan0leGW-4069c2b4143b3cfd6b080c0fcd3cd675-130_cottage_7FF3E034.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-6NanfSrl6mXdiA7wGvymkp-bac546bb549d65bde894d3a0a69fe746-238_bird_laptop_8DC8B4D4.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-6SHy50o79C0jEQhZboZVMA-671868a4bf4bce2f049a44a35283ea2c-140_water_figure_A2027B6A.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-6ScX7flwKKd9LnGKSohcKG-133ee386a07990de8d9c9f46785c2ebe-169_alien_enjoys_food_5A60C983.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-6T72UKBk5DacD2G8EMlHzx-c5073deb840b9f176744d5c2b87397fb-224_polar_bear_B809C3B7.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-6eRT8vt4SkwHBQfQ6fVunm-295e46fa087dd5edeea30a8d1ca5aafc-223_tidal_wave_2_A51858A4.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-6k0kwdHmL7JfY5mKs9bONR-2847b9e6df8544d392b2b7d1c4aee4ed-239_fpv_motorcycle_DE489B64.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-6kZfhqsaRxMX1HVtrntwk9-16824199736ae73e27c55374081e86fa-082_skeleton_935724B2.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-6mmaKzomn59IGgLbQ4i9W4-ed37c7d9f603e350dd9f79eeadf8ba97-083_robot_cat_2_B0EC88A3.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 4.12,
+            "fps": 8.0,
+            "nb_frames": 33,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-6pRBnZNdwiJVKXZcChqt0a-59e9bd3255e348d611e9f3e664aff8b7-021_dance1_C1BFBB6E.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 6.12,
+            "fps": 8.0,
+            "nb_frames": 49,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-6xMUmOsUxcWVpJyzoNElJB-39e640c7e5cf32f87d38c7fedaa643eb-168_highway_mars_6EFEB98F.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-6xdZe64AX7kQbSwggF2fO6-4f8d8b229abf265b81cc3a3c03e14499-077_bear_guitar_EB0C5C2E.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-709QbWWFnlDPnLfV1LIYD2-a4e7a30a0db9fc44cac88c552a7740b7-219_pink_cat_C5D5E04F.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-7awWQQ9dvXLRzcz36nR9JF-059f0ab92f75f9d0cdc58358bc4fb33f-184_fantasy_land_9E2E17E7.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-7bxaInXwSmYJGMeXtOFZkL-dbcd14cab9ec1c74db8d19c4301978ed-249_astro_horse_digitalart_30E9687A.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-7iYTsYzvi91GYXpZb70cVc-7ea24fc00847d315c24398da9f7c276d-201_astronaut_underwater_81961B10.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-7j1kntYa3agqIXDwH2qQLa-d54a3376d316fa378da0ec9867e14857-229_yeti_snowboarding_3F895920.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-7qODc11NhNWkyYatHlVq6X-7f28c67bd27c83337fe2dd0fcc1fba0f-221_us_flag_DCE161D2.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-7sYcqsUgmsSYot38z6FAyM-c8dc811846b450f43a69c0efa8a8812b-124_pumpkin_explosion_2_5DAD6D8C.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-7vBnuVfmnuDAClDJ7aIunu-dd57defb8c7d3044f982dc0610e9a308-113_wombat_gold_BDA6F426.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-9kZq2jOrVgrWfIFVmu9Ue-58a8b6e56f0fc0f41e0b4380a4306108-009_ethereal_8BB4F14E.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.12,
+            "fps": 8.0,
+            "nb_frames": 41,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-BMvdrlA5vjKVMbWYCEUZJ-3395fb3e27351cb0d20056be3ed0aca1-255_astro_horse_smallworld_8AE976BB.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-CpOZfYr6qZBTAIlckXYhM-2a814f6663a3b8eca90506a70a6c410b-244_teddy_skateboard_2AFD74D5.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-EvIxn6w5gqeip6MKtAcfE-c99b8585cb68463b61e565aa8ec80293-237_bird_piano_E559DDE6.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-Ex9elE7Ij7u38Yezoid4r-79ff66ec815d5631acc64d94fc938769-123_super_squirrel_63939368.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-XN2bdRTp5z9NhZrPhmXPn-266e5cf22fbbb8d6300b64269b379558-006_mane_1BCFA657.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.12,
+            "fps": 8.0,
+            "nb_frames": 41,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-YgUmb1tbUNrlXfJpbMzlt-03aa9c78ef797994e4254297d53bd672-226_mummy_B1173FC8.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-aVYUfOW7LvbSG4O0aG2tz-59b97d8a5456c28c7d6360370d10e49c-152_cyberpunk_fpv_1BCA24B0.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 4.12,
+            "fps": 8.0,
+            "nb_frames": 33,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-hAmLScy3C25B9gCpgXcKm-0708452bd99478e2c1abfc846749d5fe-207_seahorse_5A71C91A.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-heHP1dlrN1hXIfdFmjGHp-2133475f16f4080524ee8eae39d99d2d-218_ghost_094EDB01.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-j28TMT5ucLrZBR4mo78S5-9cd64a51c0d0942fd24c487f727c412a-122_riding_boat_4CB89E21.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-uZW1irKnaJGn7ecyl0Biq-56638b86fe1200e9a2867f8f6b13c93a-131_boiler_4548F2CC.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 512,
+            "height": 896
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-xLq3e1Nu4rBcigbGcMfEs-dcac7db4961ebd76c132f69162ae6569-016_koala_C5ADE5EC.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 2.12,
+            "fps": 8.0,
+            "nb_frames": 17,
+            "width": 256,
+            "height": 448
+        }
+    },
+    {
+        "video_path": "gvd-11k/videopoet/2z73455wyhhm-zoiwJcfEpPD7SToQyfHut-df162ee704e4f0e74e48c1e17a738c8a-155_train_painting_4ACC984E.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "videopoet",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 4.12,
+            "fps": 8.0,
+            "nb_frames": 33,
+            "width": 512,
+            "height": 896
+        }
+    }
+]

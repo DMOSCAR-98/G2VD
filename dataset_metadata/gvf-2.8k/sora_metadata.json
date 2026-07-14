@@ -1,0 +1,674 @@
+[
+    {
+        "video_path": "gvf-2.8k/sora/amalfi-coast.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/aquarium-nyc.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/art-museum.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/backward-jogger.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 19.97,
+            "fps": 30.0,
+            "nb_frames": 599,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/basketball-explosion.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 854,
+            "height": 480
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/big-eyed-fluff-ball.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1920,
+            "height": 1088
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/big-sur.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1920,
+            "height": 1088
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/birds-over-river.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1920,
+            "height": 1088
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/cat-on-bed.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1920,
+            "height": 1088
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/chair-archaeology.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/chameleon.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 40.02,
+            "fps": 30.0,
+            "nb_frames": 1200,
+            "width": 720,
+            "height": 1280
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/chinese-new-year-dragon.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 10.0,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/closeup-man-in-glasses.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/closeup-of-womans-eye (1).mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 15.04,
+            "fps": 30.0,
+            "nb_frames": 450,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/closeup-of-womans-eye.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 15.04,
+            "fps": 30.0,
+            "nb_frames": 450,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/cloud-man.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 17.07,
+            "fps": 30.0,
+            "nb_frames": 512,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/dogs-downtown.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/flower-blooming.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 10.0,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/gold-rush.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 25.0,
+            "fps": 30.0,
+            "nb_frames": 750,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/grandma-birthday.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 10.0,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/happy-cat.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 27.07,
+            "fps": 30.0,
+            "nb_frames": 812,
+            "width": 720,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/italian-pup.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 9.93,
+            "fps": 30.0,
+            "nb_frames": 298,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/lagos.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/man-on-the-cloud.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/mitten-astronaut.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 17.07,
+            "fps": 30.0,
+            "nb_frames": 512,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/monster-with-melting-candle.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1920,
+            "height": 1088
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/octopus-and-crab.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 17.07,
+            "fps": 30.0,
+            "nb_frames": 512,
+            "width": 512,
+            "height": 512
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/origami-undersea.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/otter-on-surfboard.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 17.07,
+            "fps": 30.0,
+            "nb_frames": 512,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/paper-airplanes.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/petri-dish-pandas.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 10.03,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/photoreal-train.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/puppy-cloning.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 10.0,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 640,
+            "height": 480
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/robot-video-game.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 19.93,
+            "fps": 30.0,
+            "nb_frames": 598,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/santorini.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/ships-in-coffee.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 15.0,
+            "fps": 30.0,
+            "nb_frames": 450,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/snow-dogs.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/stack-of-tvs.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/suv-in-the-dust.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/tiny-construction.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 10.0,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/tokyo-in-the-snow.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 17.07,
+            "fps": 30.0,
+            "nb_frames": 512,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/tokyo-walk.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 59.97,
+            "fps": 30.0,
+            "nb_frames": 1799,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/train-window.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.53,
+            "fps": 30.0,
+            "nb_frames": 256,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/victoria-crowned-pigeon.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 40.02,
+            "fps": 30.0,
+            "nb_frames": 1200,
+            "width": 720,
+            "height": 1280
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/vlogger-corgi.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 20.0,
+            "fps": 30.0,
+            "nb_frames": 600,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/wolves.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 60.03,
+            "fps": 30.0,
+            "nb_frames": 1800,
+            "width": 854,
+            "height": 480
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/wooly-mammoth.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 2,
+            "duration": 10.03,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1920,
+            "height": 1080
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/sora/zen-garden-gnome.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "sora",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 10.0,
+            "fps": 30.0,
+            "nb_frames": 300,
+            "width": 1280,
+            "height": 720
+        }
+    }
+]

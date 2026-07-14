@@ -1,0 +1,22 @@
+task_desc: test-template - g2vd - clip
+
+seed: 42
+
+save_dir: "./seed_${seed}/test_results/g2vd/clip/example_test/"
+dataset_root: "/path/to/gvd_datasets/"
+
+test_metadata_dir: "./dataset_metadata/your_test_split/"
+test_video_data_list:
+  - "real_source"
+  - "fake_source_1"
+  - "fake_source_2"
+
+test_clip_duration: 2.0
+test_num_samples: 8
+test_resolution: 224
+test_batch_size: 16
+test_num_workers: 8
+test_sample_ratio: 1.0
+
+det_checkpoint_path: "/path/to/g2vd_checkpoint.pth"
+generate_tsne: false

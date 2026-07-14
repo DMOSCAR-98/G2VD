@@ -1,0 +1,1318 @@
+[
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_09ezdvpty6hjdc8kewh8so7.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_0ah4t1tc6sa4vweapjh9nr.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_0j1sbvpwtcu7cybnqoe1jyw.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_0wvfwokjohfs878kcg8x4pg.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_16z8yrvkwnc4oqawm68ws6.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_1omt2j6xubz6ib9oyt5sjn.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_2mn8bey0397mr9tar8nman.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_2rf7a5suwajdf9i73n3znk.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_3azvqdlkskjh4chq9xm0d.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_3fjz8tt64z7caot33dwlw.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_4d1y18bs8ph36dfe09byc6.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_6gfi6q3j4a2je137xemrae.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_6lq1czt63w7s16qmj4qyp.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_6lunnmeehey3ru41cd3kvf.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_6r7onjp7t9dcx98jdo86oj.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_6ruey9v4h8d78bwe83v1n3.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_7109zildt1q4ra4mzvvmav.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_7m8f2ott29959k5jssttwp.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_83gplnalhrwyc03etx9zzt.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_8b0ygfgip9s9iux202a4ko.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_8flk3x36wbpybkgb0xiz7e.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_8g6u63u94a8n215cqxsfbh.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_978ehp8t76j7izr3dakkof.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_9u36j19xresww00izyb3xl.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_a63ffzrqror732ftoedq9x.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_aexiwtfxr8vj4io893w5zr.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_b6rv0swzbjaucschvw4p9m.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_bdl0k1x74e8okmrpysu0hq.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_bid3h4job24oc0r3j5wecj.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_bu78p4bm2vsemvwsnzxn.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_c26pp1755bbyfbjrzeabm.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_c6o8aluuynbfdkp1pp0jsf.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_ccenkk7mpnrke9a63hkged.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_cjdfmymsafqoed2inu1zh.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_dn59laonkokcunvq09vvq.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_dwlixcss2gi9eyaa11d0ud.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_efu3kkbwtip56yslvxa3xo.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_ekfj380jim7ep08yzkvkm.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_el9t5bgm82cv5l6wmdcanh.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_erp6nj08ezs5j7a02last6.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_eu6v5eh7ztxyjswv2c0t.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_ev00v9ovp5kb3ib3ls0qhw.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_fn5t05z7xxx8rvddugfv.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_g5mi4forzpekwu0d1i2j0c.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_g74lp25x33quq4ddr1yr7s.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_gaug3p2jriu3luxsrlva.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_gceoyjpzh4cyhny6xuijmj.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_gh7n4n5iub908htjkoez4n8.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_gnmlu7cj6zkv9ob9xgqyt.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_i7ebhhn6dic0z2nycsxht7o.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_icuhux4ywfrlqfz3fwigj.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_jxojz46ab9bpqiscj1fyh.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_k88tyby0tyiirxmjvbur7h.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_m4w4n4xgpasdfaeu64q79v.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_ms9iqm5fr2w44f0mzsas.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_my5zzdue86e67pghm8zi4m.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_myn13f55lcbjg8rr44lad.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_n0try3kkpgaufshud186ek.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_ne73o4isnejmhghck0g2b.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_np8gwepa66sjhgc8sl1hv.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_oyb44y4ddu4g8c49w0okl.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_psife486fusdjel9o1do.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_qf052syz1dabvt763zi8j.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_rlq8vzw1svsczzdj2d4bn.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_ryvysdxvbbku7tzwhknigr.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_sb1ekr8o2rns4036bssnkn.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_sgzqtolw5nqh5qxjpuorw4.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_siacs5c0lnkolk6b3412tl.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_sjoo9cpb53hgon411nxm.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_sxyepu4sjub0jhk5gz46gq.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_tjutndb0kyn3tucc6xdclf.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_tke45a3usb6r75gbfxuxk.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_tnsd9nhhhxouvmhunzagjp.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_tppyl123vtn3l4ksuwviy.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_uhp0db0415cl89om0c5xhg.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_utic4ba9mmetu81g0ie7zp.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_vcul5d8uhqfgcz3iktafi.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_vmk5p1afmzqx3bc93zt9k.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_vvpryepao3f2zjz2nf99v.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_vybagc09vral5g9rl28m7d.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_w87g3g0n697zv1yfohp9j.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_wp0dwrz3fer5d1wp6bou4.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_wwjuvvhch2f6wmfr8xrbe9.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_x4s4d38o7qlf469c82lp6o.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_xj629fuobjv3fvyn6zd5j.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_y7wjxf0jiami9co5uh8a.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_ycltbcwdwgahnirz7czur.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_yf13yjzsqytpbkfc3wvpn.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_yqkh8b5d7wbaqupjgv2j.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_yu4kg9wjbxv6v3vccyvpf.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_z694orlk0ybm1va9x0vpe.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_zvbixwbsodyn7p1pqjbgp.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_zxxjg6e9fpcb3klzqe905.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 960,
+            "height": 960
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/kling/RNFetchBlobTmp_zz1pnouwchsaoe5ln8cpft.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "kling",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 5.1,
+            "fps": 30.0,
+            "nb_frames": 153,
+            "width": 1280,
+            "height": 720
+        }
+    }
+]

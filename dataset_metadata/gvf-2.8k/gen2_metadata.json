@@ -1,0 +1,1360 @@
+[
+    {
+        "video_path": "gvf-2.8k/gen2/-8y1Q0rA3n8_108_115.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a man slices through a two liter plastic bottle of soda pop with a sword",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/-DRy7rBg0IQ_31_37.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a girl swimming under water",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/-_hbPLsZvvo_19_25.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a cucumber is being sliced",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/-_hbPLsZvvo_323_328.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a man is arranging sushi",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/-_hbPLsZvvo_49_55.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a person is slicing carrots",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/-dm-ds5rRaM_44_52.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "ussain bolt winning a race",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/-rvjK0lE3z4_33_43.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "someone cuts a potato into cubesize pieces with a knife",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/0hyZ__3YhZc_289_295.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "someone pours chopped vegetables into a kettle",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/0hyZ__3YhZc_364_370.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "someone pours water into an empty tomato sauce can and swishes it around to remove the sauce on the side",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/0lh_UWF9ZP4_94_103.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a woman pours eggs from a glass bowl into a woklike skillet and she appears to be cooking an omelet",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/16iNk1hLJt4_37_40.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "six young runners are lined up at the starting line of a racetrack waiting for a man to tell them to start",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/1N_Ic2pBM1o_2_23.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a woman is playing a guitar and singing",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/1dfR0A_BXjw_545_560.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a chef butters some bread",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/2YhDTpzxd3c_102_105.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a man karate chops multiple boards while another man watches",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/4lXdVS697DQ_10_25.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "two men sail on a boat",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/5AEldiUP408_65_71.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a man is running down a street in his underwear",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/5OvgDatToBU_0_8.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a white kitten is on a table lapping milk from a plate",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/5dv8MSWlxoQ_10_40.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a girl making her hair in a mirror",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/6vC6AT27RUc_29_46.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a fox or dog wags its tail and smiles",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/778mkceE0UQ_40_46.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a red car with two black stripes on the hood is being driven down the street",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/7uOiiA4Kxbo_23_35.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a man",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/88DOMJ11q2M_34_43.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "animation of a woman showering",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/8BL9qmFRbd4_6_13.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "business people checking into a hotel room",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/8yoUaH6wGLs_22_30.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a cop car rams into motorcycle rider",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/9HTUcMjWB3g_122_128.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a girl preparing pot pie",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/ACOmKiJDkA4_49_54.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a person is chopping green onions",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/AX38yo7Wuws_81_91.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "someone is attempting to cut a rolled up tube of blue construction paper with scissors",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/A_nCfAbXjoM_8_56.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a woman rides a donkey",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/AjZ-R3LFMzo_24_38.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a motorcyclist is doing donuts with his motorcycle",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/BApIQn69EVE_10_16.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "an okapi is grazing off a tree",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/BvHnDAsMtUA_0_13.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a cat is playing with a toy mouse",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/CquJjlNuotg_147_155.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a man is cutting a cardboard plate with scissors",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/D1X6qXkLjYE_41_49.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a woman dancing in front of a microphone begins to sing while accompanied by a man on a keyboard",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/Dgf0VHMEtNs_57_66.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "four people in surgical masks are operating on a man",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/EBWPZIjtnTM_1_6.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a lady talking on the phone",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/EjAoBKagWQA_132_145.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a male and a female robot are kissing",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/HzYtvOYOEoU_21_32.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a group of women do a tribal dance",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/IEQyCcageGg_99_126.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "several images of rugby players are passing the ball to each other",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/IhwPQL9dFYc_153_170.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "someone is stirfrying a ground substance in a wok",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/J3_hkgu6MGc_43_52.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a car driven down the street at night stops",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/Lyp7MiaCXNE_114_120.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "someone adds a few drops of clear liquid to a kettle with an eyedropper",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/MJNStEgDKXU_3_10.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "the dog sat down and barked a welcome",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/N6SglZopfmk_97_111.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a man applying shaving cream to his face",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/OVEe1DMsOq0_43_52.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a number of ferrets wander around in a cage",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/PD6eQY7yCfw_32_37.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a young man throws a basketball from a long distance and makes a basket",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/PHDmVhShE80_20_29.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "the woman is cutting a tentacle",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/PJnJMp2ZpbA_3_15.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a little boy dances around his younger brother",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/SFFfhAUEoj0_10_16.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a young man is seated in a chair playing a guitar",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/SZP3Jpbbwj0_52_59.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a basket ball player does a hook shot on his opponent",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/SzEbtbNSg04_70_85.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "someone cuts mushrooms into pieces with a knife",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/T6lPRKRpu9w_32_39.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "two men are talking",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/TFJ6oR89Vb8_90_107.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "an omelet is being cooked in a pan",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/TXabUVUxJqI_22_31.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a man is exercising",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/TjLCJKoot4U_43_65.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "the lion is chasing the bear",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/UXs3eq68ZjE_49_54.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "someone pours tomato sauce from a can into a saucepan and stirs with a wooden spoon",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/UbmZAe5u5FI_111_115.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "someone turns a fish over on a small grill",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/UbmZAe5u5FI_88_98.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a woman pours a clear liquid on both sides of a raw fish on a plate with a measuring spoon",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/Ugb_uH72d0I_8_17.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a man is playing a guitar",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/UnWgz-mVMXU_2_6.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a kid sliding down a poll",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/V--abChiVVc_30_40.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "an assemble of men dancing",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/Vg1jyL3cr60_163_186.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a group is playing musical instruments",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/WTf5EgVY5uU_124_128.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "someone is sauteing a minced substance in a wok using chopsticks",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/WTf5EgVY5uU_76_83.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a woman cuts up food",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/YEmS8ZQIhTA_7_20.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "two teams are playing basketball",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/YZ0-6hdQ0mU_0_3.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a man is tying his tennis shoe in a bow",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/Ylb4pnW-jP4_102_113.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a young man running down the stairs",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/ZnLgsasu82g_71_81.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a boy rides a bike on a fence",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/_O9kWD8nuRU_45_49.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a woman is peeling a potato with a peeler",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/b97TK8XVLHE_40_50.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a man is smiling as he reads an email message",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/bL_Kijz9IN4_0_15.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a girl is slicing garlic",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video7084.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a person is grilling some food",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video7208.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a woman describes that she adds water to a bowl of ingredients and then mixes it",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video7244.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a woman is talking",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video7275.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "people moving in street in a fast forward fashion",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video7314.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a boat floats through a canal surrounded by softly colored buildings",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video7531.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a man is running in a livingroom picks up his phone and looks at the photos on his phone",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video7540.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "in cup full of chocolate then we add yellow cream to it so yummy",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video7542.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a kid getting out of a mini toy police car",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video7606.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "overhead view as pingpong players compete on the table",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video7616.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "someone driving an orange sports car",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video7714.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "four women dressed in santa outfits on a stage",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video7761.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "fireworks are being displayed",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video7828.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "man standing with red light displayed on back and then he holds a black mike in hand and starts talking",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video7958.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "there are two skiers talking in snow mountain",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video8105.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a skiin video is displayed filmed from the first person perspective of the skier",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video8220.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "two dogs walk around a motorcycle",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video8359.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a man is surfing and carving the waves of the ocean the man continues to paddle out to sea then surfs some more",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video8820.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a guy doing motorcycle stunts crashing and then stalling out",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video8830.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "someone in a blue suit is speaking at a conference",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video9004.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a woman cooks meat on the stove and then adds red onions to the pan",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video9056.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "the red sedan is driven by a man and he gets out of it",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video9167.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a man runs and jumps into his team to celebrate",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video9246.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a corn field moves quickly past the camera there is a shot of a city and then of a double-decker passenger train",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video9252.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a garage door lifts revealing a car",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video9612.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a man is driving a van down a road and then a fire is shown burning at night time",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video9723.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a man does an experiment with a battery and rotating wire",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/gen2/video9774.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "gen2",
+            "semantic_source_label": "a rocket goes off into the wide blue sky over the trees",
+            "nb_streams": 1,
+            "duration": 4.0,
+            "fps": 24.0,
+            "nb_frames": 96,
+            "width": 2816,
+            "height": 1536
+        }
+    }
+]

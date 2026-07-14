@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+conda-meta/
+
+# IDE/editor files
+.vscode/
+.idea/
+.cursor/
+*.swp
+*.swo
+
+# Logs and runtime artifacts
+*.log
+logs/
+runs/
+wandb/
+tensorboard/
+cfi_pipeline_outputs/
+
+# Experiment outputs
+seed_*/
+train_results/
+test_results/
+tsne_visualizations/
+tsne_visualizations_during_training/
+
+# Model checkpoints and large learned artifacts
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.onnx
+*.bin
+pretrained_weights/
+checkpoints/
+weights/
+
+# Local user configs copied from templates
+configs/local_*.yaml
+configs/local_*.yml
+
+# Local datasets and generated media
+datasets/
+gvd_datasets/
+data_root/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.gif
+
+# Archives and temporary files
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+tmp/
+temp/
+
+# Required CLIP tokenizer vocabulary kept in git despite the .gz suffix.
+!baseline_models/clip/bpe_simple_vocab_16e6.txt.gz

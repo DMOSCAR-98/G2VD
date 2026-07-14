@@ -1,0 +1,54 @@
+task_desc: train-template - g2vd_wo_cfi_cd - clip
+
+seed: 42
+
+# Edit these paths and source names for your local dataset split.
+save_dir: "./seed_${seed}/train_results/g2vd_wo_cfi_cd/clip/example/"
+dataset_root: "/path/to/gvd_datasets/"
+
+train_metadata_dir: "./dataset_metadata/your_train_split/"
+train_video_data_list:
+  - "real_source"
+  - "fake_source_1"
+  - "fake_source_2"
+
+val_metadata_dir: "./dataset_metadata/your_val_split/"
+val_video_data_list:
+  - "real_source"
+  - "fake_source_1"
+  - "fake_source_2"
+
+train_clip_duration: 2.0
+train_num_samples: 8
+train_resolution: 224
+train_batch_size: 8
+train_num_workers: 8
+
+val_clip_duration: 2.0
+val_num_samples: 8
+val_resolution: 224
+val_batch_size: 16
+val_num_workers: 8
+
+train_sample_ratio: 1.0
+val_sample_ratio: 1.0
+train_epochs: 10
+val_freq: 1
+grad_accum_steps: 16
+weight_decay: 1.0e-8
+
+cfi_stage: 1.0
+cd_stage: 1.0
+
+det_model:
+  target: modules.detector.VideoDetector
+  params:
+    video_backbone: clip
+    hf_repo: null
+    backbone_ft: full
+    num_classes: 1
+    classifier_type: linear
+  checkpoint_path: null
+  base_learning_rate: 1.0e-6
+
+generate_tsne: false

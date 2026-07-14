@@ -1,0 +1,198 @@
+[
+    {
+        "video_path": "gvf-2.8k/veo/WM_IPTC_coast_1.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "veo",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 6.0,
+            "fps": 24.0,
+            "nb_frames": 144,
+            "width": 2048,
+            "height": 1152
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/veo/WM_coast_kayak_1.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "veo",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 6.0,
+            "fps": 24.0,
+            "nb_frames": 144,
+            "width": 2048,
+            "height": 1152
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/veo/veo_cowboy_sun_1.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "veo",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.0,
+            "fps": 24.0,
+            "nb_frames": 192,
+            "width": 2048,
+            "height": 1152
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/veo/veo_example_001_residential_street_1.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "veo",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.0,
+            "fps": 24.0,
+            "nb_frames": 192,
+            "width": 2048,
+            "height": 1152
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/veo/veo_example_002_mountain_lake.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "veo",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.0,
+            "fps": 24.0,
+            "nb_frames": 192,
+            "width": 2048,
+            "height": 1152
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/veo/veo_example_004_wet_pavement.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "veo",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.0,
+            "fps": 24.0,
+            "nb_frames": 192,
+            "width": 2048,
+            "height": 1152
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/veo/veo_example_006_northern_lights.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "veo",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.0,
+            "fps": 24.0,
+            "nb_frames": 192,
+            "width": 2048,
+            "height": 1152
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/veo/veo_example_011_lighthouse.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "veo",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.0,
+            "fps": 24.0,
+            "nb_frames": 192,
+            "width": 2048,
+            "height": 1152
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/veo/veo_example_012_elephant.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "veo",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.0,
+            "fps": 24.0,
+            "nb_frames": 192,
+            "width": 2048,
+            "height": 1152
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/veo/veo_example_013_kebab.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "veo",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.0,
+            "fps": 24.0,
+            "nb_frames": 192,
+            "width": 2048,
+            "height": 1152
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/veo/veo_example_014_jellyfish.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "veo",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.0,
+            "fps": 24.0,
+            "nb_frames": 192,
+            "width": 2048,
+            "height": 1152
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/veo/veo_example_041_sunflower.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "veo",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.0,
+            "fps": 24.0,
+            "nb_frames": 192,
+            "width": 1280,
+            "height": 720
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/veo/veo_example_043_alpacas.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "veo",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.0,
+            "fps": 24.0,
+            "nb_frames": 192,
+            "width": 2048,
+            "height": 1152
+        }
+    },
+    {
+        "video_path": "gvf-2.8k/veo/veo_example_048_noir_street.mp4",
+        "info_dict": {
+            "base_label": "1",
+            "generation_source_label": "veo",
+            "semantic_source_label": "",
+            "nb_streams": 1,
+            "duration": 8.0,
+            "fps": 24.0,
+            "nb_frames": 192,
+            "width": 2048,
+            "height": 1152
+        }
+    }
+]
