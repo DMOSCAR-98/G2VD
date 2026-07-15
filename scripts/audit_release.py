@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import re
+import os
 import subprocess
 import sys
 from pathlib import Path
@@ -27,24 +28,26 @@ ALLOWED_LARGE_FILES = {
     "baseline_models/clip/bpe_simple_vocab_16e6.txt.gz",
 }
 
-PROJECT_IDENTITY_PATTERNS = [
-    re.compile("dume" + "ng98", re.IGNORECASE),
-    re.compile("dumeng_" + r"1998@163\.com", re.IGNORECASE),
-    re.compile("2607" + r"\.04607", re.IGNORECASE),
-    re.compile("0000-0001-" + "6949-1125", re.IGNORECASE),
-    re.compile(r"\b" + "Meng" + r"\s+" + "Du" + r"\b", re.IGNORECASE),
-    re.compile(r"\b" + "Du" + r",\s*" + "Meng" + r"\b", re.IGNORECASE),
-    re.compile(r"\b" + "Hongchang" + r"\s+" + "Chen" + r"\b", re.IGNORECASE),
-    re.compile(r"\b" + "Chen" + r",\s*" + "Hongchang" + r"\b", re.IGNORECASE),
-    re.compile(r"\b" + "Ran" + r"\s+" + "Li" + r"\b", re.IGNORECASE),
-    re.compile(r"\b" + "Li" + r",\s*" + "Ran" + r"\b", re.IGNORECASE),
-    re.compile(r"\b" + "Junjie" + r"\s+" + "Zhang" + r"\b", re.IGNORECASE),
-    re.compile(r"\b" + "Zhang" + r",\s*" + "Junjie" + r"\b", re.IGNORECASE),
-    re.compile(r"\b" + "Qi" + r"\s+" + "Ouyang" + r"\b", re.IGNORECASE),
-    re.compile(r"\b" + "Ouyang" + r",\s*" + "Qi" + r"\b", re.IGNORECASE),
-    re.compile(r"\b" + "Shuxin" + r"\s+" + "Liu" + r"\b", re.IGNORECASE),
-    re.compile(r"\b" + "Liu" + r",\s*" + "Shuxin" + r"\b", re.IGNORECASE),
-]
+IDENTITY_DENYLIST = Path(
+    # Keep author-specific patterns outside the public release tree.
+    os.environ.get(
+        "G2VD_IDENTITY_DENYLIST", str(ROOT.parent / "release_identity_denylist.txt")
+    )
+)
+
+
+def _load_identity_patterns() -> List[re.Pattern[str]]:
+    if not IDENTITY_DENYLIST.exists():
+        return []
+    patterns: List[re.Pattern[str]] = []
+    for raw_line in IDENTITY_DENYLIST.read_text(encoding="utf-8").splitlines():
+        line = raw_line.strip()
+        if line and not line.startswith("#"):
+            patterns.append(re.compile(line, re.IGNORECASE))
+    return patterns
+
+
+PROJECT_IDENTITY_PATTERNS = _load_identity_patterns()
 
 SENSITIVE_PATTERNS = [
     re.compile(r"192\.168\."),
